@@ -1,0 +1,18 @@
+.text-special {
+    color: #FF3B89;
+}
+
+.btn-buy {
+    color: #fff;
+    background-color: #FF3B89;
+    border-color: #FF3B89;
+}
+
+.bg-custom {
+    background-color: #FCEAE8;
+}
+
+.resized-img img{
+    vertical-align: middle;
+    width: 25%;
+}
